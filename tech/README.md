@@ -1,0 +1,7 @@
+- Cosmos interchain
+- ZK proofs, snarks, circuits
+- Blast chain
+- Winter JS
+- Leptos SDK: leptos.dev
+- ollama
+- 
