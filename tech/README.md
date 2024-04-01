@@ -9,4 +9,4 @@
 - https://github.com/RareSkills/zero-knowledge-puzzles/tree/main
 - https://www.rareskills.io
 - https://docs.ordinals.com/runes.html
-- 
+- supabase and embeddings
