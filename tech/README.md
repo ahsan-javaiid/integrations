@@ -10,3 +10,5 @@
 - https://www.rareskills.io
 - https://docs.ordinals.com/runes.html
 - supabase and embeddings
+- 7 habits compatitive advantages book 
+- ZK Book: https://www.rareskills.io/zk-book?twclid=2-52cgulwyix5whnqhwvgqktn6b
