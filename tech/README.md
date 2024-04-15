@@ -12,3 +12,5 @@
 - supabase and embeddings
 - 7 habits compatitive advantages book 
 - ZK Book: https://www.rareskills.io/zk-book?twclid=2-52cgulwyix5whnqhwvgqktn6b
+- scaffoldeth: Everything you need to build dApps on Ethereum
+- 
