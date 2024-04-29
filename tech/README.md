@@ -14,4 +14,6 @@
 - ZK Book: https://www.rareskills.io/zk-book?twclid=2-52cgulwyix5whnqhwvgqktn6b
 - scaffoldeth: Everything you need to build dApps on Ethereum
 - Full ZK: https://github.com/odradev/awesome-zero-knowledge
-- 
+- Bitcoin newsletter: https://www.ortege.ai/news/the-bitcoin-bungalow-issue-4-april-25-2024
+- zkSNARK circuits with libraries like Halo2, Plonky2, Arkworks, Circom
+- BitEVMX dependencies: bitcoin script
