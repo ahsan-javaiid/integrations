@@ -17,3 +17,4 @@
 - Bitcoin newsletter: https://www.ortege.ai/news/the-bitcoin-bungalow-issue-4-april-25-2024
 - zkSNARK circuits with libraries like Halo2, Plonky2, Arkworks, Circom
 - BitEVMX dependencies: bitcoin script
+- uuidv4 vs v7
