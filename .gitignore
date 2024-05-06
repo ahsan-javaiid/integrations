@@ -130,3 +130,4 @@ deploy.sh
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+notes.txt
