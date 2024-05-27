@@ -8,3 +8,7 @@ https://github.com/rust-lang/rustlings/blob/main/exercises/07_structs/structs1.r
 
 ### 100 Exercises To Learn Rust
 https://rust-exercises.com/
+
+### Shuttle RS
+https://www.shuttle.rs/blog/2024/05/23/building-agentic-rag-rust-qdrant
+
