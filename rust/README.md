@@ -12,3 +12,5 @@ https://rust-exercises.com/
 ### Shuttle RS
 https://www.shuttle.rs/blog/2024/05/23/building-agentic-rag-rust-qdrant
 
+### idomatic rust
+https://corrode.dev/blog/idiomatic-rust-resources/
