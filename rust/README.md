@@ -14,3 +14,8 @@ https://www.shuttle.rs/blog/2024/05/23/building-agentic-rag-rust-qdrant
 
 ### idomatic rust
 https://corrode.dev/blog/idiomatic-rust-resources/
+
+https://www.snoyman.com/blog/owned-values-and-futures/
+
+## Cairo lang
+https://www.cairo-lang.org/ 
