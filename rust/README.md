@@ -19,3 +19,7 @@ https://www.snoyman.com/blog/owned-values-and-futures/
 
 ## Cairo lang
 https://www.cairo-lang.org/ 
+
+## Async Rust Book 
+https://rust-lang.github.io/async-book/ 
+https://book.async.rs/
