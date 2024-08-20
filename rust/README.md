@@ -23,3 +23,13 @@ https://www.cairo-lang.org/
 ## Async Rust Book 
 https://rust-lang.github.io/async-book/ 
 https://book.async.rs/
+
+## Shop 
+https://gitlab.com/turbomarktplatz/turbovorderseite
+https://moturbo.com/wishlist
+Frontend: Leptos
+Backend: Axum
+Database: SurrealDB
+S3 storage: Garage
+Search: Meilisearch
+Auth / OpenID: Rauthy
