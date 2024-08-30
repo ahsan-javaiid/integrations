@@ -1,7 +1,7 @@
 const { ethers, Contract, utils, constants, JsonRpcProvider } = require("./dist/ethers.umd.js");
 
 // const ROOTSTOCK_RPC_NODE = "https://public-node.rsk.co";
-const ROOTSTOCK_RPC_NODE = "https://rpc.testnet.rootstock.io/AluZdy8x1eQCwbFLmeLm7SUbxMQ1vs-T";
+const ROOTSTOCK_RPC_NODE = "https://rpc.testnet.rootstock.io/{key}";
 
 // REF: https://developers.rsk.co/rif/rns/architecture/registry/
 const RNS_REGISTRY_ADDRESS = "0xcb868aeabd31e2b66f74e9a55cf064abb31a4ad5";
