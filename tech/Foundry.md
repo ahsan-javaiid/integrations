@@ -33,3 +33,10 @@ https://www.youtube.com/watch?v=-XT2YCQGVEQ
 https://solidity-by-example.org/app/create2/
 
 ## Foundry alloy dependency 
+
+
+## Working old version
+
+foundryup -v nightly-f625d0fa7c51e65b4bf1e8f7931cd1c6e2e285e9
+
+Effective gas price issue: https://github.com/foundry-rs/foundry/issues/7640 
