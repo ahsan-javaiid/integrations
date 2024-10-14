@@ -18,3 +18,5 @@
 - zkSNARK circuits with libraries like Halo2, Plonky2, Arkworks, Circom
 - BitEVMX dependencies: bitcoin script
 - uuidv4 vs v7
+- Runes: https://www.npmjs.com/package/runelib
+- ordinals: https://docs.ordinals.com/introduction.html
