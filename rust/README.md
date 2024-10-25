@@ -39,3 +39,6 @@ Auth / OpenID: Rauthy
 https://www.shuttle.dev/blog/2024/04/18/using-traits-generics-rust
 
 ## bigint development in rust
+
+## Rust subtle syntax
+https://zkrising.com/writing/rusts-most-subtle-syntax/
