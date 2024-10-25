@@ -20,3 +20,4 @@
 - uuidv4 vs v7
 - Runes: https://www.npmjs.com/package/runelib
 - ordinals: https://docs.ordinals.com/introduction.html
+- BitVM JS implementation
