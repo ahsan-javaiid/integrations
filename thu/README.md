@@ -17,3 +17,5 @@ async function checkIfUserRetweeted() {
 checkIfUserRetweeted();
 
 ```
+
+## RNS fauct new version
