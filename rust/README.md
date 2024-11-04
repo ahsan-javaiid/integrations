@@ -37,3 +37,5 @@ Auth / OpenID: Rauthy
 
 ## Intro to Traits in Rust
 https://www.shuttle.dev/blog/2024/04/18/using-traits-generics-rust
+
+## bigint development in rust
