@@ -42,3 +42,6 @@ https://www.shuttle.dev/blog/2024/04/18/using-traits-generics-rust
 
 ## Rust subtle syntax
 https://zkrising.com/writing/rusts-most-subtle-syntax/
+
+Buit using: 
+https://github.com/Speyll/anemone
