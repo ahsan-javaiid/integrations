@@ -21,3 +21,4 @@
 - Runes: https://www.npmjs.com/package/runelib
 - ordinals: https://docs.ordinals.com/introduction.html
 - BitVM JS implementation
+- Circom, Halo2 and one more
