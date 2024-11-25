@@ -131,3 +131,4 @@ deploy.sh
 .yarn/install-state.gz
 .pnp.*
 notes.txt
+rust/hundred-exercises-rust/target
