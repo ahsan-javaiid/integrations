@@ -46,3 +46,5 @@ https://zkrising.com/writing/rusts-most-subtle-syntax/
 Buit using: 
 https://github.com/Speyll/anemone
 
+
+## https://jadnohra.com/learn-rust/
